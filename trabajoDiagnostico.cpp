@@ -2,7 +2,9 @@
 #include <fstream>
 #include <iostream>
 #include <string>
-
+/*
+autor: Luis Gerardo Manrique Cardona
+*/
 int **matriz1;
 int **matriz2;
 int N;
